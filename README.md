@@ -9,11 +9,13 @@ OVERVIEW OF THE PROJECT
 
 Project Description: 
     A basic calculator program that allows users to perform arithmetic operations such as addition,subtraction,multiplication and division.
+	
 Key Features :
       User Input: Users can select an operation and input two numbers.
       Arithmetic Operations: The program performs addition, subtraction, multiplication, and division based on input given  by the user.
       Error Handling: The program handles division by zero errors and invalid user input.
       Simple Menu: A text-based menu allows users to select an operation.
+	  
 Technical Details:
      Programming Language: Python
      Functions: Four functions are defined for each arithmetic operation (add, subtract, multiply, divide).
